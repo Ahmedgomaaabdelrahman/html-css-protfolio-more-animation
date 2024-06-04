@@ -1079,7 +1079,7 @@ header .container  nav > ul >  li:last-child:hover .nav-menu{
 }
 
 @media (max-width: 991px) {
-    .image-container {
+    .our-skills .container .image-container {
         display: none;
     }
 }
